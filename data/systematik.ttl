@@ -83,7 +83,7 @@
 
 
 <B277#> a skos:Concept ;
-  skos:prefLabel "Alte Sprachen"@de ;
+  skos:prefLabel "TEST Sprachen"@de ;
   skos:narrower <S277#>, <S405#>, <S278#>;
   skos:broader <F273#> ;
   skos:inScheme <scheme#> .

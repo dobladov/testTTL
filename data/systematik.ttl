@@ -9,31 +9,31 @@
 
 
 <F1#> a skos:Concept ;
-  skos:prefLabel "TEST2 NODE- und Forstwissenschaften"@de ;
+  skos:prefLabel "Agrar- und Forstwissenschaften"@de ;
   skos:narrower <B1#>, <B8#>, <B12#>;
   skos:topConceptOf <scheme#> .
 
 
 <F17#> a skos:Concept ;
-  skos:prefLabel "Test4- und Sozialwissenschaften"@de ;
+  skos:prefLabel "Gesellschafts- und Sozialwissenschaften"@de ;
   skos:narrower <B399#>, <B17#>, <B26#>, <B29#>, <B37#>, <B40#>, <B42#>, <B46#>;
   skos:topConceptOf <scheme#> .
 
 
 <F56#> a skos:Concept ;
-  skos:prefLabel "TEST 5Ingenieurwissenschaften"@de ;
+  skos:prefLabel "Ingenieurwissenschaften"@de ;
   skos:narrower <B56#>, <B59#>, <B63#>, <B66#>, <B69#>, <B71#>, <B74#>, <B400#>, <B84#>, <B87#>, <B91#>, <B94#>, <B96#>, <B102#>, <B104#>, <B108#>, <B109#>, <B116#>, <B401#>, <B120#>, <B126#>, <B132#>, <B134#>, <B145#>;
   skos:topConceptOf <scheme#> .
 
 
 <F146#> a skos:Concept ;
-  skos:prefLabel "Test 6Kunst, Musik, Design"@de ;
+  skos:prefLabel "Kunst, Musik, Design"@de ;
   skos:narrower <B146#>, <B156#>, <B165#>, <B173#>, <B179#>, <B176#>, <B405#>;
   skos:topConceptOf <scheme#> .
 
 
 <F381#> a skos:Concept ;
-  skos:prefLabel "Test 7Lehramt"@de ;
+  skos:prefLabel "Lehramt"@de ;
   skos:narrower <B396#>, <B398#>, <B397#>;
   skos:topConceptOf <scheme#> .
 
@@ -83,7 +83,7 @@
 
 
 <B277#> a skos:Concept ;
-  skos:prefLabel "TEST Sprachen"@de ;
+  skos:prefLabel "Alte Sprachen"@de ;
   skos:narrower <S277#>, <S405#>, <S278#>;
   skos:broader <F273#> ;
   skos:inScheme <scheme#> .

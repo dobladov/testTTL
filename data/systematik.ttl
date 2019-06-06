@@ -9,7 +9,7 @@
 
 
 <F1#> a skos:Concept ;
-  skos:prefLabel "Agrar- und Forstwissenschaften"@de ;
+  skos:prefLabel "[Test1]Agrar- und Forstwissenschaften"@de ;
   skos:narrower <B1#>, <B8#>, <B12#>;
   skos:topConceptOf <scheme#> .
 

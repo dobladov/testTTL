@@ -27,7 +27,7 @@
 
 
 <F146#> a skos:Concept ;
-  skos:prefLabel "Kunst, Musik, Design"@de ;
+  skos:prefLabel "[Test4]Kunst, Musik, Design"@de ;
   skos:narrower <B146#>, <B156#>, <B165#>, <B173#>, <B179#>, <B176#>, <B405#>;
   skos:topConceptOf <scheme#> .
 

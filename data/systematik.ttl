@@ -33,7 +33,7 @@
 
 
 <F381#> a skos:Concept ;
-  skos:prefLabel "Lehramt"@de ;
+  skos:prefLabel "[Test5]Lehramt"@de ;
   skos:narrower <B396#>, <B398#>, <B397#>;
   skos:topConceptOf <scheme#> .
 

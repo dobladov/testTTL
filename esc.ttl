@@ -47,7 +47,7 @@
         :n0114 ;
     skos:notation "01",
         "011" ;
-    skos:prefLabel "EducationTEST"@en ;
+    skos:prefLabel "Education"@en ;
     skos:topConceptOf :scheme .
 
 :n02 a skos:Concept ;

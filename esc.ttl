@@ -35,7 +35,7 @@
         :n002,
         :n003 ;
     skos:notation "00" ;
-    skos:prefLabel "Generic programmes and qualifications"@en ;
+    skos:prefLabel "Generic test programmes and qualifications"@en ;
     skos:scopeNote "General education programmes and qualifications which cover a broad range of subjects with little or no specialisation in a particular field or fields will typically be classified within the broad field 00 ‘Generic programmes and qualifications’"@en ;
     skos:topConceptOf :scheme .
 
